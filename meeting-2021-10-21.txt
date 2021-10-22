@@ -1,0 +1,80 @@
+Vorbereitung Boot 2022 
+Teams meeting 21.10.2021 
+1. Stand der Finanzierung/Organisatorisches/Workshops 
+  2. offen noch 50,-
+  3. Dirk würde uns wieder mit Messestand unterstützen 
+  4. Michael hat abschliessbare Faecher 
+  5. Workshops – Vorschlag 7 Workshops nachmittags (1x pro Tag): 2 x Windsensor, Vorschlag Michael Klaerung Planung und Vorfinanzierung, brauchen 4 Leute pro Workshop 
+  6. Vorschlag: WS ESP32 mit Sensor + N2K/0183 -> Andreas K. 
+  7. Workshop:Einführung 3D Zeichnungen Norbert
+  8. Workshop: SignalK Thomas
+  9. Vorschlag: WS AvNav mit MIchael 
+  10. 5gHz WLAN? Michael 
+  11. o-charts anfragen wegen Karten Andreas V., ggf. Vortrag
+2. Wer ist dabei? 
+  https://github.com/open-boat-projects-org/organisation
+   1. Oleg letztes Wochenende 
+   2. Norbert ganze Zeit 
+   3. Chris ganze Zeit 
+   4. Michael ist vor Ort, nur temp 
+   5. Andreas V. bis Sonntag 
+   6. Julian ganze Zeit 
+   7. Andreas K 
+   8. Thomas ? 
+3. Konzept Stand 
+   1. Wie letztes Mal 
+   2. Showtafeln 
+   3. Eigene Boards 
+   4. LAN Kabel 
+   5. Netzwerk-Konzept 
+4. Vortraege: 
+   1. -> Norbert Liste bei GitHub 
+5. Projekte: 
+   1. Netzteil 12V-> Chris
+      separate Kabel zum Netzteil
+   2. Ethernet Switch +Kabel Norbert
+   3. Neuer Windsensor  (Norbert) 
+   4. Windsensor W132 mit NMEA2000 (Julian) N2KBus
+   5. MFD (Norbert) Anbindung noch unklar
+   6. Plotter (Chris)  4x
+      1x Resistiv AvNav an N2K
+      1x Kapazitiver Touch an N2K
+   7. 2x MCS (Thomas), 1x Android Display, Martin: OP Image 
+   8. 2x Autoradios (Norbert) AvNav als App, BonjourBrowser
+   9. Batteriemonitor (Norbert) an SK über WLAN
+   10. Lora Bootsmonitor (Norbert) 
+   11. N2k Bus mit Simulationsdaten Andreas K.
+       -> alternativ Simulation über SK
+       -> T-Stücke + Anschlusskabel -> Chris
+       Bus sichtbar, Stichleitungen
+   12. NMEA0183 dran (ESP32 Konverter) Einspeisung in N2K Andreas K 
+   13. M5Stack Atom CanBus (Andreas V) Daten von N2K 
+   14. Shelly Module (Michael?) 
+   15. Sattelitenschüssel Andreas K.
+   16. I2C-Module zur Bootsautomation Norbert
+   17. Sensor Roovi Tag in SignalK Norbert
+   18. B&G Plotter Thomas, Karte?
+   19. Julian 4 Laptops (1x dediziert für OpenPlotter), VNC, Arduino IDE
+6. Tafeln
+      1. Norbert: 3 Tafeln
+      2. Andreas K: kleine Tafel
+      3. Chris:  1 Tafel
+      4. Julian: -> mit bei Norbert
+      5. Thomas: 2x MCS, 1 Display Android, Module
+      6. Andreas V: kleine Tafel mit Tablet?
+      7. Skizze mit Plätzen Dirk (->Norbert)
+      8. Skizze für Board von Norbert
+7. Flyer/Content Banderole
+      1. QR Codes für Projekte
+      2. Projekte auf OpenBoatProjects
+      3. Content für Monitore
+8. Naechste Schritte: 
+      2. Projekt-Liste auf OpenBoatProjects 
+      3. Klarheit über Anordnung der Exponate ->Skizzen
+      4. Bus- und Netzkonzept - OK
+      5. Simulationsdaten - Andreas K oder alternativ Andreas V (per SK)
+      6. Workshops finalisieren
+      7. WordPress Zugang für Julian, Chris, Martin
+      8. Julian Verfügbarkeit W132 prüfen
+      9. IP Liste für Netzwerkgeräte Norbert
+-> naechste Runde 4.11.
