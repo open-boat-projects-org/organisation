@@ -56,7 +56,7 @@ Teams meeting 21.10.2021
    18. B&G Plotter Thomas, Karte?
    19. Julian 4 Laptops (1x dediziert für OpenPlotter), VNC, Arduino IDE
 6. Tafeln
-      1. Norbert: 3 Tafeln
+      1. Norbert: 3 Tafeln (530 x 880 mm)
       2. Andreas K: kleine Tafel
       3. Chris:  1 Tafel
       4. Julian: -> mit bei Norbert
