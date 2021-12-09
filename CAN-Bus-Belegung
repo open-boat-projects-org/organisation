@@ -1,0 +1,32 @@
+CAN-Bus-Belegung
+################
+
+Anschluss   Stromverbrauch    Belegung durch
+
+Netzteil 13,6V 20A (Chris)
+|
+Einspeisekabel mit Sicherung und
+Abschlusswiderstand 120 Ohm
+|
+Port In
+Port 0    0 mA    CAN-Simulator (Andreas)
+Port 0    0 mA    MCS (thomas)
+Port 0    250 mA  Transducer (Thomas)
+Port 0    0 mA    CAN32 - AVnav (Andreas)
+Port Out
+|
+Port In
+Port 0
+Port 0    
+Port 0    1000 mA Raspi Plotter 7" (Chris)
+Port 0    1000 mA Raspi Plotter 10" (chris)
+Port Out
+|
+Port In
+Port 0    250 mA  Airmar 810 Transducer (Speed, Tiefe)
+Port 0    150 mA  CAN32 - Android Autoradio 7"
+Port 0    0 mA    CAN32 - Android Autoradio 10"
+Port 0    250 mA  MFD OBP60
+Port Out
+|
+Abschlusswiderstand 120 Ohm
