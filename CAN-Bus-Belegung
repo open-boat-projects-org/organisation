@@ -14,15 +14,11 @@ Port 0    0 mA    MCS (thomas)
 Port 0    250 mA  Transducer (Thomas)
 Port 0    0 mA    CAN32 - AVnav (Andreas)
 Port Out
-|
-Port In
-Port 0    ---  0 mA NMEA 2000 Simulator / USB-Actisense-Backup (Homberger) - Adresse = 75
-Port 0      |- 0 mA NMEA 2000 WiFi Gatway (Homberger) - Adresse = 32
-Port 0      |- 0 mA NMEA 2000 Data Sender (Temp., Fuel, RPM) - Homberger,  - Adresse = 33
-Port Out
-|
-Port In
-Port 0
+|           |- 0 mA NMEA 2000 Simulator / USB-Actisense-Backup (Homberger) - Adresse = 75
+|           |- 0 mA NMEA 2000 WiFi Gatway (Homberger) - Adresse = 32
+|           |- 0 mA NMEA 2000 Data Sender (Temp., Fuel, RPM) - Homberger,  - Adresse = 33
+Port In     |
+Port 0------|
 Port 0    
 Port 0    1000 mA Raspi Plotter 7" (Chris)
 Port 0    1000 mA Raspi Plotter 10" (chris)
