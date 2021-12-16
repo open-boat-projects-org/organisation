@@ -42,7 +42,7 @@ NMEA2000 PGNs - Senden
 ######################
 
 NMEA 2000 Data Sender:
-127505L, // Fluid Level
-130312L, // Temperature
-127488L, // Engine Rapid / RPM
+PGN127505 // Fluid Level
+PGN130312 // Temperature
+PGN127488 // Engine Rapid / RPM
 
