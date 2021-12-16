@@ -26,6 +26,7 @@ IP-Adressbereiche:
 Statisch: (ohne DHCP) 192.168.1.2 - 192.168.1.99
 
 192.168.1.1   WiFi Router
+192.168.1.2   NMEA2000 WLAN-Gateway
 
 
 
