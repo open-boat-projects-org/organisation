@@ -16,9 +16,9 @@ Port 0    0 mA    CAN32 - AVnav (Andreas)
 Port Out
 |
 Port In
-Port 0    0 mA NMEA 2000 Simulator / USB-Actisense-Backup (Homberger) - Adresse = 75
-Port 0    0 mA NMEA 2000 WiFi Gatway (Homberger) - Adresse = 32
-Port 0    0 mA NMEA 2000 Data Sender (Temp., Fuel, RPM) - Homberger,  - Adresse = 33
+Port 0    ---  0 mA NMEA 2000 Simulator / USB-Actisense-Backup (Homberger) - Adresse = 75
+Port 0      |- 0 mA NMEA 2000 WiFi Gatway (Homberger) - Adresse = 32
+Port 0      |- 0 mA NMEA 2000 Data Sender (Temp., Fuel, RPM) - Homberger,  - Adresse = 33
 Port Out
 |
 Port In
