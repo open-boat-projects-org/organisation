@@ -16,6 +16,12 @@ Port 0    0 mA    CAN32 - AVnav (Andreas)
 Port Out
 |
 Port In
+Port 0    0 mA NMEA 2000 Simulator / USB-Actisense-Backup (Homberger)
+Port 0    0 mA NMEA 2000 WiFi Gatway (Homberger)
+Port 0    0 mA Data Simulator (Temp., Fuel, RPM) - Hombertger
+Port Out
+|
+Port In
 Port 0
 Port 0    
 Port 0    1000 mA Raspi Plotter 7" (Chris)
