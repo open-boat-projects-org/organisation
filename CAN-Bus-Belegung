@@ -39,6 +39,7 @@ Abschlusswiderstand 120 Ohm
 
 
 NMEA2000 PGNs - Senden
+######################
 
 NMEA 2000 Data Sender:
 127505L, // Fluid Level
