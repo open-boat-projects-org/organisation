@@ -18,7 +18,7 @@ Port Out
 Port In
 Port 0    0 mA NMEA 2000 Simulator / USB-Actisense-Backup (Homberger)
 Port 0    0 mA NMEA 2000 WiFi Gatway (Homberger)
-Port 0    0 mA Data Simulator (Temp., Fuel, RPM) - Hombertger
+Port 0    0 mA NMEA 2000 Data Sender (Temp., Fuel, RPM) - Homberger
 Port Out
 |
 Port In
@@ -36,3 +36,12 @@ Port 0    250 mA  MFD OBP60
 Port Out
 |
 Abschlusswiderstand 120 Ohm
+
+
+NMEA2000 PGNs - Senden
+
+NMEA 2000 Data Sender:
+127505L, // Fluid Level
+130312L, // Temperature
+127488L, // Engine Rapid / RPM
+
