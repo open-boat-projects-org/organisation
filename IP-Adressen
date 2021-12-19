@@ -46,5 +46,5 @@ Folgende Zuteilungen sind bereits belegt:
 192.168.1.141   Android Autoradio 7"
 192.168.1.x     Automatische Satellitenschüssel (Server)
 192.168.1.y     M5Stack NMEA2000 Data Display (nur Client)
-192.168.1.z     Tablet. Client für NMEA2000 WiFi-Gateway und Satellitenschüssel (nur client)
+192.168.1.z     Tablet. Client für NMEA2000 WiFi-Gateway und Satellitenschüssel (nur Client)
 
