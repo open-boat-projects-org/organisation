@@ -1,4 +1,4 @@
-WLAN-Richtlinie auf der Boot 2022
+WLAN-Richtlinie auf der Boot 2023
 #################################
 
 * Eigene WLAN-Netze sind genehmigungsbedürftig
@@ -15,7 +15,7 @@ Das heist dann konkret, dass wir nur einen AccessPoint benutzen dürfen und sich
 
 Folgende WLAN-Zugnagsdaten für den AccessPoint (2.4GHz) werden benutzt:
 
-SSID: 10H11-OBP
+SSID: 11H02-OBP
 Pass: 8kr5Z2883L
 Kanal: 9 (fix, war vorgegeben)
 
@@ -29,8 +29,8 @@ Statisch: (ohne DHCP) 192.168.1.2 - 192.168.1.99
 192.168.1.2   NMEA2000 WLAN-Gateway (MDNS: gateway.local)
 
 
-
-Dynamisch: (mit DHCP) 192.168.1.100 - 192.168.1.254
+Statisch:     192.168.1.2 - 192.168.1.99
+Dynamisch:    (mit DHCP) 192.168.1.100 - 192.168.1.254
 
 Hinweis: Einmal zugeteilte IP-Adressen per DHCP bleiben für 69 Tage gültig.
 Folgende Zuteilungen sind bereits belegt:
@@ -44,7 +44,6 @@ Folgende Zuteilungen sind bereits belegt:
 192.168.1.120   Sonoff Power Schalter 1 POW
 192.168.1.140   Sonoff 4-Kanal Schalter 2
 192.168.1.141   Android Autoradio 7"
-192.168.1.x     Automatische Satellitenschüssel (Server)
 192.168.1.y     M5Stack NMEA2000 Data Display (nur Client)
-192.168.1.z     Tablet. Client für NMEA2000 WiFi-Gateway und Satellitenschüssel (nur Client)
+
 
