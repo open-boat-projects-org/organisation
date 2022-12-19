@@ -19,29 +19,34 @@ SSID: 11H02-OBP
 Pass: 8kr5Z2883L
 Kanal: 9 (fix, war vorgegeben)
 
-Stellt Eure WLAN-Geräte bitte auf diese Werte ein und testet das am besten zu Hause vorher, damit es keine bösen Überraschungen auf der Messe gibt. Insbesondere bei Zugriff auf festen IP-Zuordnungen müssen ggf. zum Zeitpunkt der Messe die Bindungen erneuert werden, sofern DHCP benutzt wird.
+Stellt Eure WLAN-Geräte bitte auf diese Werte ein und testet das am besten zu Hause vorher, damit es keine bösen Überraschungen auf der Messe gibt.
+Insbesondere bei Zugriff auf festen IP-Zuordnungen müssen ggf. zum Zeitpunkt der Messe die Bindungen erneuert werden, sofern DHCP benutzt wird.
 
 IP-Adressbereiche:
 
 Statisch: (ohne DHCP) 192.168.2.2 - 192.168.2.99
+#####################################################
 
 192.168.2.1   WiFi Router
 192.168.2.2   NMEA2000 WLAN-Gateway (MDNS: gateway.local)
 
-Dynamisch:    (mit DHCP) 192.168.2.100 - 192.168.1.199
+Dynamisch: (mit DHCP) 192.168.2.100 - 192.168.1.199
+######################################################
 
 Hinweis: Einmal zugeteilte IP-Adressen per DHCP bleiben für 69 Tage gültig.
 Folgende Zuteilungen sind bereits belegt:
 
-192.168.2.104   LED-Leiste
-192.168.2.107   Ventil
-192.168.2.108   M5Stack Fire
-192.168.2.110   Android Autoradio 10"
-192.168.2.111   M5Stack Fire
-192.168.2.112   Sonoff 4-Kanal Schalter 1
-192.168.2.120   Sonoff Power Schalter 1 POW
-192.168.2.140   Sonoff 4-Kanal Schalter 2
-192.168.2.141   Android Autoradio 7"
-192.168.2.y     M5Stack NMEA2000 Data Display (nur Client)
+192.168.2.174   LED-Leiste
+192.168.2.153   Ventil1
+192.168.2.104   M5Stack Fire dick
+192.168.2.111   M5Stack Fire dünn
+192.168.2.166   Sonoff 4-Kanal Schalter 1
+192.168.2.172   Sonoff 4-Kanal Schalter 2
+192.168.2.156   Sonoff Power Schalter 1 POW
+192.168.2.178   Android Autoradio 10"
+192.168.2.106   Android Autoradio 7"
+192.168.2.131   M5Stack NMEA2000 Gateway (CANRX, nur Client am 10" Android Autoradio)
+192.168.2.168   M5Stack NMEA2000 Gateway (CANRS232, nur Client am GPSmap 420)
+192.168.2.158   Battery Monitor
 
 
