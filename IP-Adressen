@@ -48,5 +48,6 @@ Folgende Zuteilungen sind bereits belegt:
 192.168.2.131   M5Stack NMEA2000 Gateway (CANRX, nur Client am 10" Android Autoradio)
 192.168.2.168   M5Stack NMEA2000 Gateway (CANRS232, nur Client am GPSmap 420)
 192.168.2.158   Battery Monitor
+192.168.2.112   AVnav PiCAN-M
 
 
