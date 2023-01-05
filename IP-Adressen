@@ -15,9 +15,9 @@ Das heist dann konkret, dass wir nur einen AccessPoint benutzen dürfen und sich
 
 Folgende WLAN-Zugnagsdaten für den AccessPoint (2.4GHz) werden benutzt:
 
-SSID: 11H02-OBP
+SSID: 11C02-OBP
 Pass: 8kr5Z2883L
-Kanal: 9 (fix, war vorgegeben)
+Kanal: ? (wird vorgegeben)
 
 Stellt Eure WLAN-Geräte bitte auf diese Werte ein und testet das am besten zu Hause vorher, damit es keine bösen Überraschungen auf der Messe gibt.
 Insbesondere bei Zugriff auf festen IP-Zuordnungen müssen ggf. zum Zeitpunkt der Messe die Bindungen erneuert werden, sofern DHCP benutzt wird.
