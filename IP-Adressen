@@ -2,7 +2,7 @@ WLAN-Richtlinie auf der Boot 2023
 #################################
 
 * Eigene WLAN-Netze sind genehmigungsbedürftig
-* Eigene WLAN-Netze dürfen nur im 2,4 GH Bereich senden, 5 GHz sind nicht erlaubt
+* Eigene WLAN-Netze dürfen nur im 2,4 GHz Bereich senden, 5 GHz sind nicht erlaubt
 * Die Sendeleistung muss auf die Standffläche reduziert werden (-80dB an Standgrenze) Wird wohl schwierig werden das einzuhalten.
 * Die SSID muss unsere Standnummer 10H11 erste Zeichen enthalten
 * Mehrfache SSIDs sind nicht erlaubt
