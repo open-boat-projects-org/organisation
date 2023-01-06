@@ -43,8 +43,8 @@ Folgende Zuteilungen sind bereits belegt:
 192.168.2.166   Sonoff 4-Kanal Schalter 1
 192.168.2.172   Sonoff 4-Kanal Schalter 2
 192.168.2.156   Sonoff Power Schalter 1 POW
-192.168.2.178   Android Autoradio 10"
-192.168.2.106   Android Autoradio 7"
+192.168.2.197   Android Autoradio 10"
+192.168.2.154   Android Autoradio 7"
 192.168.2.131   M5Stack NMEA2000 Gateway (CANRX, nur Client am 10" Android Autoradio)
 192.168.2.168   M5Stack NMEA2000 Gateway (CANRS232, nur Client am GPSmap 420)
 192.168.2.158   Battery Monitor
