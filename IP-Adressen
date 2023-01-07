@@ -37,6 +37,7 @@ Hinweis: Einmal zugeteilte IP-Adressen per DHCP bleiben für 69 Tage gültig.
 Folgende Zuteilungen sind bereits belegt:
 
 192.168.2.174   LED-Leiste
+192.168.2.118   Windsensor1
 192.168.2.153   Ventil1
 192.168.2.104   M5Stack Fire dick
 192.168.2.111   M5Stack Fire dünn
