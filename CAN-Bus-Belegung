@@ -62,7 +62,7 @@ Simulator:
 129794, AIS Class A Static and Voyage Related Data
 129809, AIS Class B static data (msg 24 Part A)
 129810, AIS Class B static data (msg 24 Part B)
-130306, Wind Data
-130311, Environmental Parameters
-130312, Temperature
-130314, Actual Pressure
+130306, Wind Data, ref=Apparentless fe  
+130311, Environmental Parameters TempSource: Sea Temp
+130312, Temperature , Instance = 0; Source = Outside Temperature; Actual Temperature = 16.70 C
+130314, Actual Pressure, Instance = 0; Source = Atmospheric; Pressure = 1.021177 bar
