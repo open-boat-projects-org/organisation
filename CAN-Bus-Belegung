@@ -42,3 +42,27 @@ PGN127505 // Fluid Level
 PGN130312 // Temperature
 PGN127488 // Engine Rapid / RPM
 
+Simulator:
+126975, proprietary
+126993, heartbeat
+127245, rudder
+127250, heading
+127258, Magnetic Variation
+128259, Speed
+128267, Water Depth
+128275, Distance Log
+129025, Position, Rapid Update
+129026, COG & SOG, Rapid Update
+129029, GNSS Position Data
+129039, AIS Class B Position Report
+129283, Cross Track Error
+129284, Navigation Data
+129539, GNSS DOPs
+129540, GNSS Sats in View
+129794, AIS Class A Static and Voyage Related Data
+129809, AIS Class B static data (msg 24 Part A)
+129810, AIS Class B static data (msg 24 Part B)
+130306, Wind Data
+130311, Environmental Parameters
+130312, Temperature
+130314, Actual Pressure
