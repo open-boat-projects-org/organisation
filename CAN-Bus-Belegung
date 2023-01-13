@@ -38,9 +38,9 @@ NMEA2000 PGNs - Senden
 ######################
 
 NMEA 2000 Data Sender:
-PGN127505 // Fluid Level
-PGN130312 // Temperature
-PGN127488 // Engine Rapid / RPM
+PGN127505 // Fluid Level, Instance = 0; Source = Fuel; Drehzahl gemäß Potentiometer
+PGN130312 // Temperature, Instance = 0; Source = Inside Temperature; Hallentemperatur
+PGN127488 // Engine Rapid, Instance = 0; Drehzahl gemäß Potentiometer
 
 Simulator:
 126975, proprietary
