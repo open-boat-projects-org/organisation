@@ -11,7 +11,7 @@ Abschlusswiderstand 120 Ohm
 Port In
 Port 0    0 mA    CAN-Simulator (Andreas)
 Port 0    0 mA    MCS (thomas)
-Port 0    250 mA  Transducer (Thomas)
+Port 0    250 mA  ~~Transducer~~ B&G Plotter (Thomas)
 Port 0    0 mA    CAN32 - AVnav (Andreas)
 Port Out
 |           |- 0 mA NMEA 2000 Simulator / USB-Actisense-Backup (Homberger) - Adresse = 75
